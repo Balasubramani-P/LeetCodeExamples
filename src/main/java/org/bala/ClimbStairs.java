@@ -1,4 +1,4 @@
-package Leetcode;
+package org.bala;
 
 public class ClimbStairs {
     public static int climbStairs(int n) {
@@ -29,6 +29,6 @@ public class ClimbStairs {
     }
 
     public static void main(String[] args){
-        System.out.println("you can climb "+climbStairs2(5)+" unique ways!!!!!!!!!!!!!!");
+        System.out.println("you can climb "+climbStairs(5)+" unique ways!!!!!!!!!!!!!!");
     }
 }
