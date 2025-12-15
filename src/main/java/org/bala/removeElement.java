@@ -21,6 +21,6 @@ public class removeElement {
 
     public static void main(String[] args) {
         int[] abc={1,2,3,1,2,3,1,3,4,4,5,6};
-        System.out.println("after removing the '1' element from array  balance count::"+removeElement(abc,1));
+        System.out.println("after removing the '1' element from array  balance count::"+removeElement(abc,3));
     }
 }

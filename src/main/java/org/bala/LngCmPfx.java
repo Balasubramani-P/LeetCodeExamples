@@ -21,7 +21,7 @@ public class LngCmPfx {
 
     public static void main(String[] args) {
        String[] strs ={"flower","flow","flight"};
-       String[]  strs2 = {"dog","racecar","car"};
+       String[]  strs2 = {"dog","caracecar","car"};
         System.out.println("Ans::::::"+longestCommonPrefix(strs));
     }
 }
